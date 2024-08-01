@@ -16,7 +16,7 @@
 
 ## GitHub stats
 ![](https://github-readme-stats.vercel.app/api?username=WendSpy&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=WendSpy&theme=dracula&hide_border=true)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WendSpy&layout=compact&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=WendSpy&theme=dracula&hide_border=true)
 -----
 [![](https://visitcount.itsvg.in/api?id=WendSpy&icon=0&color=0)](https://visitcount.itsvg.in)
